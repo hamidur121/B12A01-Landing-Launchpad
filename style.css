@@ -182,7 +182,7 @@ margin-top: 37px;
 /* Ready section style */
 .Ready-title{
     font-size: 50px;
-    font-weight: 700px;
+    font-weight: bold;
     color: rgb(0, 0, 0);
     text-align: center;
 
@@ -202,12 +202,10 @@ margin-top: 37px;
     width: 1140px;
     height: 696.77px;
     background-color: rgb(255, 255, 255);
-    margin-top: 137px; 
-    max-width: 1140px;
-    margin: 0 auto;
- 
+    margin: 137px 149px 92px 151px; 
     padding: 71px 150px;
     border-radius:14PX ;
+    margin: 0 auto;
 
 
 }
@@ -246,7 +244,7 @@ margin-top: 37px;
 }
 .form-style{
     
-      display:block;
+    display:block;
     background-color: white;
     border-radius: 10px;
     width: 100%;
